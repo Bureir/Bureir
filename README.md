@@ -1,5 +1,5 @@
 <!-- Header Banner (Fixed) -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:2E8BC0,100:1B1F3B&height=300&section=header&text=Bureir%20Alaboudi&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Systems%20%7C%20HPC&desc2=Architecture&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:2E8BC0,100:1B1F3B&height=300&section=header&text=Bureir%20Alaboudi&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Hardware%20or%20Software%2C%20your%20choice&descAlignY=65)
 
 
 
