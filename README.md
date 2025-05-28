@@ -1,6 +1,5 @@
 <!-- Header Banner (Fixed) -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Bureir%20Alaboudi&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20-%20Systems%20%26%20Architecture&descAlignY=60)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Bureir%20Alaboudi&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineering%20Student&descAlignY=65)
 
 
 
