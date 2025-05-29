@@ -1,27 +1,11 @@
-![Full](./Assets/programer.gif)
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=2000&pause=5000&color=1753AE&center=true&vCenter=true&random=false&width=435&height=40&lines=Hi+%F0%9F%91%8B+I'm+Elio+Aliaj" alt="Typing SVG" />
-</p>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=16&duration=1000&pause=20000&color=2B717E&multiline=true&random=false&width=449&height=24&lines=%22I'm+a+recent+graduate+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%2C+venturing+into+programming%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22)A passionate beginner programmer on a journey of continuous learning, currently immersing myself in the world of Java and Web Development. 💻 Excited to contribute to innovative projects, I'm mastering version control with Git and GitHub. Open to collaborations and always up for a coding challenge! 🚀
-
-
 <!-- Header Banner (Fixed) -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:2E8BC0,100:1B1F3B&height=300&section=header&text=Bureir%20Alaboudi&fontSize=75&animation=fadeIn&fontAlignY=30&desc=No%20framework%2C%20no%20problem&descAlignY=52)
 
-
-
-<!-- Typing SVG Intro -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Bureir+Alaboudi;UMich+Computer+Engineer;OoO+Pipelines+%7C+CUDA+Kernels+%7C+SystemVerilog;No+framework%2C+no+problem" alt="Typing SVG" />
-  </a>
-</h1>
-
-<img src="https://github.com/HalemoGPA/HalemoGPA/blob/main/images/Developer.gif" alt="developer gif" align="right" height="45px">
-
-
+<!-- Typing Intro + GIF -->
+<p align="center">
+  <img src="https://github.com/HalemoGPA/HalemoGPA/blob/main/images/Developer.gif" alt="developer gif" height="45px"><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=2000&pause=5000&color=1753AE&center=true&vCenter=true&random=false&width=600&height=40&lines=Hi+%F0%9F%91%8B+I'm+Bureir+Alaboudi;UMich+Computer+Engineer;No+framework%2C+no+problem" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -48,19 +32,44 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Capabilities
 
-**Systems & Architecture**
-- RISC-V ISA, Superscalar Pipelines, Tomasulo's Algorithm, Cache Design  
-- RTL: SystemVerilog, Verilog, Chisel (beginner)  
-- Debug: Simulation, Assertion-based, Custom Visualizations  
+**🔬 Architecture & RTL Design**  
+- Superscalar, out-of-order, speculative execution pipelines  
+- Tomasulo's algorithm, register renaming, CDB, PRF, ROB  
+- Associative and non-blocking cache design (write-back, write-allocate)  
+- RTL: **SystemVerilog**, **Verilog**, Chisel (exploring)
 
-**Performance & HPC**
-- CUDA (shared memory tiling, coalesced access)  
-- C/C++, Python (NumPy, concurrency), Bash  
+**🛠️ Hardware Design & Verification**  
+- Synthesis, P&R, timing closure, static timing analysis  
+- ASIC & FPGA workflows — Vivado, Quartus, ModelSim, Verdi  
+- Formal verification via **JasperGold**, plus UVM-style validation  
+- CMOS and VLSI design techniques
 
-**Tools**
-- Git, GitHub, Vivado, ModelSim, VS Code, SLURM, Makefiles  
+**⚡ High-Performance Computing & Parallelism**  
+- **CUDA** (shared memory tiling, coalesced access, INT8 quantization)  
+- **OpenMP**, multithreading, low-latency pipelines  
+- Real-time image/video processing on FPGAs (30 FPS @ high-res)
+
+**🧠 Software & Simulation**  
+- C/C++, Python, Bash, MATLAB, TCL, Perl  
+- CPU behavioral simulators, cache/memory hierarchy modeling  
+- Debugging tools and custom regression test frameworks
+
+**🧰 Tools & Platforms**  
+- Cadence Virtuoso, Synopsys Verdi, Vivado, Quartus, SLURM, Makefiles  
+- Linux (daily driver), UNIX shell scripting  
+- Git, GitHub, GitOps workflows
+
+**🧩 AI/ML Hardware Optimization**  
+- ResNet-50 inference acceleration with **TensorRT**  
+- INT8 quantization, CUDA tensor cores  
+- 4x+ speedup over CPU baselines for real-time inference
+
+**🧑‍🔬 Meta-Skills**  
+- Ruthlessly fast at learning new stacks, tools, or languages  
+- Can walk into any technical setting and become the go-to engineer  
+- Efficient communicator, team-first mentality, performance-obsessed
 
 ---
 
@@ -68,9 +77,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bureir/)  
 📧 Email: `balaboud@umich.edu` · `bureirENGR@gmail.com`
-
-<!-- Optional: Buy Me A Coffee
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-red.png)](https://www.buymeacoffee.com/YOURUSERNAME)
--->
