@@ -4,7 +4,7 @@
 <!-- Typing Intro + GIF -->
 <p align="center">
   <img src="https://github.com/HalemoGPA/HalemoGPA/blob/main/images/Developer.gif" alt="developer gif" height="45px"><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=1000&pause=1200&color=1753AE&center=true&vCenter=true&random=false&width=600&height=40&lines=Hi+%F0%9F%91%8B+I'm+Bureir+Alaboudi;UMich+Computer+Engineer;No+framework%2C+no+problem" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=1000&pause=1400&color=1753AE&center=true&vCenter=true&random=false&width=600&height=40&lines=Hi+%F0%9F%91%8B+I'm+Bureir+Alaboudi;UMich+Computer+Engineer;No+framework%2C+no+problem" alt="Typing SVG" />
 </p>
 
 ---
