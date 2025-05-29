@@ -1,5 +1,6 @@
-<!-- Header Banner (Custom Gradient: Black to Cyan) -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:00FFE0&height=300&section=header&text=Bureir%20Alaboudi&fontSize=75&animation=fadeIn&fontAlignY=30&desc=No%20framework%2C%20no%20problem&descAlignY=52)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bureir/Bureir/refs/heads/main/glitch_1048036.svg" alt="Glitch Banner" width="600">
+</p>
 
 <!-- Typing Intro + GIF (with neon cyan effect) -->
 <p align="center">
