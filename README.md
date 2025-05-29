@@ -1,5 +1,12 @@
 ![Full](./Assets/programer.gif)
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=2000&pause=5000&color=1753AE&center=true&vCenter=true&random=false&width=435&height=40&lines=Hi+%F0%9F%91%8B+I'm+Elio+Aliaj" alt="Typing SVG" />
+</p>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=16&duration=1000&pause=20000&color=2B717E&multiline=true&random=false&width=449&height=24&lines=%22I'm+a+recent+graduate+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%2C+venturing+into+programming%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22)A passionate beginner programmer on a journey of continuous learning, currently immersing myself in the world of Java and Web Development. 💻 Excited to contribute to innovative projects, I'm mastering version control with Git and GitHub. Open to collaborations and always up for a coding challenge! 🚀
+
+
 <!-- Header Banner (Fixed) -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:2E8BC0,100:1B1F3B&height=300&section=header&text=Bureir%20Alaboudi&fontSize=75&animation=fadeIn&fontAlignY=30&desc=No%20framework%2C%20no%20problem&descAlignY=52)
 
