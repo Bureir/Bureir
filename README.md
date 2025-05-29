@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://raw.githubusercontent.com/Bureir/Bureir/refs/heads/main/glitch_1048036.svg" alt="Glitch Banner" width="600">
 </p>
 
