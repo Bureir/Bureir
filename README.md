@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=2000&pause=5000&color=1753AE&center=true&vCenter=true&random=false&width=435&height=40&lines=Hi+%F0%9F%91%8B+I'm+Elio+Aliaj" alt="Typing SVG" />
+</p>
+
 <!-- Header Banner (Fixed) -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:2E8BC0,100:1B1F3B&height=300&section=header&text=Bureir%20Alaboudi&fontSize=75&animation=fadeIn&fontAlignY=30&desc=No%20framework%2C%20no%20problem&descAlignY=52)
 
