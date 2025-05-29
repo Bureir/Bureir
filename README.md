@@ -4,7 +4,7 @@
 <!-- Typing Intro + GIF -->
 <p align="center">
   <img src="https://github.com/HalemoGPA/HalemoGPA/blob/main/images/Developer.gif" alt="developer gif" height="45px"><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=2000&pause=5000&color=1753AE&center=true&vCenter=true&random=false&width=600&height=40&lines=Hi+%F0%9F%91%8B+I'm+Bureir+Alaboudi;UMich+Computer+Engineer;No+framework%2C+no+problem" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=1000&pause=1200&color=1753AE&center=true&vCenter=true&random=false&width=600&height=40&lines=Hi+%F0%9F%91%8B+I'm+Bureir+Alaboudi;UMich+Computer+Engineer;No+framework%2C+no+problem" alt="Typing SVG" />
 </p>
 
 ---
@@ -53,13 +53,15 @@
 
 **🧠 Software & Simulation**  
 - C/C++, Python, Bash, MATLAB, TCL, Perl  
-- CPU behavioral simulators, cache/memory hierarchy modeling  
-- Debugging tools and custom regression test frameworks
+- Embedded systems (Arduino, STM32, custom SoCs)  
+- Web development (HTML/CSS/JS, Flask, Node, Firebase)  
+- Linux internals, kernel mods, custom drivers, networking stacks  
+- Database design, file system tweaking, cross-arch simulation
 
 **🧰 Tools & Platforms**  
 - Cadence Virtuoso, Synopsys Verdi, Vivado, Quartus, SLURM, Makefiles  
-- Linux (daily driver), UNIX shell scripting  
-- Git, GitHub, GitOps workflows
+- Git, GitHub, GitOps workflows, CI/CD  
+- OS-native scripting (Linux, macOS, Windows PowerShell)
 
 **🧩 AI/ML Hardware Optimization**  
 - ResNet-50 inference acceleration with **TensorRT**  
@@ -67,9 +69,10 @@
 - 4x+ speedup over CPU baselines for real-time inference
 
 **🧑‍🔬 Meta-Skills**  
-- Ruthlessly fast at learning new stacks, tools, or languages  
-- Can walk into any technical setting and become the go-to engineer  
-- Efficient communicator, team-first mentality, performance-obsessed
+- 🧠 **Extreme learning agility** — I pick up new stacks like I’ve been doing them for years  
+- 🔧 **Builder’s instinct** — from fixing engines to optimizing memory subsystems  
+- 💡 **Hyper-resourceful** — nothing gets blocked, everything gets solved  
+- 🔥 **Full-stack to full-system** — I don't need a framework. I *am* the framework
 
 ---
 
