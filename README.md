@@ -12,7 +12,7 @@
 
 ## 🔧 Current Projects
 
-- **R5SEBA** – A 2-way out-of-order RISC-V processor with speculative execution, branch recovery, and associative caches  
+- **R5SEBA** – An N-way out-of-order RISC-V processor with speculative execution, branch recovery, and associative caches  
 - **ConvoLite** – A CUDA-accelerated deep learning engine with shared memory tiling and pipelined convolution  
 - **μTracker** – A microarchitectural profiling framework with integrated testbenches and RTL debug automation  
 
