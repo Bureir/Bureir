@@ -83,3 +83,4 @@
 📧 Email: `balaboud@umich.edu` · `bureirENGR@gmail.com`
 
 ## A commit a day keeps the bugs away
+If you see it like a video game, where the daily and weekly "bonuses" are less bugs and less trouble, it becomes much easier to make even one small improvement daily which compounds over time!
